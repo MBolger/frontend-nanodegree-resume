@@ -121,7 +121,7 @@ var education = {
   "name":"San Francisco State University",
   "location":"San Francisco, Ca",
   "degree" : "BA",
-  "majors" : ["Art History", " Photography"],
+  "majors" : "Art History",
   "dates" : 2008,
   "url" : "https://www.sfsu.edu"
  },
