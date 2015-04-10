@@ -6,7 +6,7 @@ var bio = {
     	"email": "Matt.p.bolger@gmail.com",
     	"github": "MBolger",
     	"twitter": "@MP_Bolger",
-    	"location": "Oakland"
+    	"location": "Oakland, Ca"
      },
      "welcomeMessage": "Front End Ninja",
      "skills": [
