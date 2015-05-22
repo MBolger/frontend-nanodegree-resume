@@ -68,21 +68,41 @@ if (bio.skills.length>0) {
       "title": "VIP Customer Service",
       "location": "San Carlos, Ca",
       "dates": "March 2014-Current",
-      "description": "This is some random place holder text"
+      "description": "Maintain and quality check equipment.
+                      Provide support and technical advice
+                      to customers who are experiencing problems
+                      with equipment. Troubleshoot camera and
+                      accessory problems in person or through phone
+                      and email. Edit images and content for Blog.
+                      Photograph and edit content for the Borrowlenses.com. "
     },
     {
       "employer": "Google",
       "title": "Director of Photography",
       "location": "Mountain View, Ca",
       "dates": "June 2012- Oct 2013",
-      "description": "This is some random place holder text"
+      "description": "Creative Director for imagery in interactive
+                      360degree models of consumer products.  Branding
+                      for an online shopping site generating sales worldwide.
+                      Managed a four person user experience and creative
+                      team for creative elements including direct email,
+                      website management, and event materials.
+                      Curated imagery for 3D models. Handled both lens and
+                      camera calibrations for the 360 degree photo rig.  Wrote
+                      and deployed camera cleaning practices. Photographed and
+                      edited banner imagery for multiple Google landing sites.
+                      Lead product photographer and image editor. "
     },
     {
       "employer": "Wilkes Bashford",
       "title": "Visual Designer",
       "location": "San Francisco, Ca",
       "dates": "April 2006 - May 2008",
-      "description": "This is some random place holder text"
+      "description": "Lead designer for print and online ad campaign. Worked
+                      on website from wireframe to launch. Designed and
+                      installed store displays. Photographed and organized
+                      store events. Oversaw customer hospitality upon arrival
+                      to store"
     },
   ]
 };
