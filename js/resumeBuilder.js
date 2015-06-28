@@ -65,7 +65,7 @@ if (bio.skills.length>0) {
   "jobs": [
     {
       "employer": "Shutterfly",
-      "title": "VIP Customer Service",
+      "title": "VIP Photo Tech",
       "location": "San Carlos, Ca",
       "dates": "March 2014-Current",
       "description": "Maintain and quality check equipment.

@@ -1,2 +1,2 @@
-udresume
+Javascript powered resume
 ========
